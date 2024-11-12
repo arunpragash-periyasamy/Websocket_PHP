@@ -1,0 +1,16 @@
+{
+    "name": "arunpragash/php_socket",
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arunpragash\\PhpSocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arunpragash"
+        }
+    ]
+}
